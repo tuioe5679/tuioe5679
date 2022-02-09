@@ -1,6 +1,6 @@
-<h2>개발자를 희망하는 tuioe 입니다<h2/>
+<h2>개발자를 희망하는 tuioe 입니다</h2>
   
-<a> ·😄 컴퓨터 공학과 2학년 재학중<a/>
+<a> ·😄 컴퓨터 공학과 2학년 재학중</a>
 
 <!--
 **tuioe5679/tuioe5679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
