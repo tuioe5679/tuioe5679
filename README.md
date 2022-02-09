@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- username=[사용자이름]
+- username=123
 - langs_count=[화면에 표기될 언어갯수]
 - layout=[화면에 리스트 형식 혹은 통계치로 보여질지 여부]
 - theme=[default는 white배경. 그 외 theme는 github-readme-stats 참조]
@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 example : 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
-[출처] 깃허브Github - (3) - 프로필 페이지 꾸미기, stats and most used languages|작성자 길상
+
 
 
