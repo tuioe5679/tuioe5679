@@ -1,4 +1,4 @@
-### Hi there 👋
+개발자를 희망하는 tuioe 입니다
 
 <!--
 **tuioe5679/tuioe5679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
