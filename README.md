@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- username=[사용자이름]
+- langs_count=[화면에 표기될 언어갯수]
+- layout=[화면에 리스트 형식 혹은 통계치로 보여질지 여부]
+- theme=[default는 white배경. 그 외 theme는 github-readme-stats 참조]
+- ()﻿ = [위에 만든 자신의 username로 생성된 Repo주소]
+
+example : 
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+[출처] 깃허브Github - (3) - 프로필 페이지 꾸미기, stats and most used languages|작성자 길상
+
+
