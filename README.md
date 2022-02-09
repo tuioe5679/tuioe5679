@@ -3,7 +3,7 @@
 - 기술 스택
 - Java + Spring
 - HTML,CSS,JavaScript + React
-- [네이버 블로그](#https://blog.naver.com/qodlgks123)
+- [네이버 블로그](# https://blog.naver.com/qodlgks123)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuioe5679&layout=compact)](https://github.com/tuioe5679/github-readme-stats)
 
