@@ -6,6 +6,14 @@
 프론트엔드  HTML,CSS,JavaScript + React
 </a>
 
+- [GitHub 통계](#github-통계)
+- [GitHub 저장소 핀](#github-저장소-핀)
+- [언어 사용량 통계](#언어-사용량-통계)
+- [Wakatime 주간 통계](#wakatime-주간-통계)
+- [테마](#테마)
+- [커스터마이징](#커스터마이징)
+- [직접 배포하기](#나만의-Vercel-인스턴스에-직접-배포하기)
+
 
 
 
