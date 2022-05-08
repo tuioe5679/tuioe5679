@@ -4,7 +4,7 @@
 - Java + Spring
 - HTML,CSS,JavaScript + React
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/tuioe5679/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuioe5679&layout=compact)](https://github.com/tuioe5679/github-readme-stats)
 
 
