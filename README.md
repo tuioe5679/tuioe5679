@@ -1,6 +1,6 @@
 ### 개발자를 희망하는 tuioe 입니다 
 - 컴퓨터 공학과 2학년 재학중
-- E-mail <a>qodlgks123@naver.com</a>
+- <a href="qodlgks123@naver.com">이메일</a>
 - 기술 스택
 - Java + Spring
 - HTML,CSS,JavaScript + React
