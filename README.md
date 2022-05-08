@@ -5,7 +5,7 @@
 - HTML,CSS,JavaScript + React
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuioe5679&layout=compact)](https://github.com/tuioe5679/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=tuioe5679&theme=onedark)](https://github.com/tuioe5679/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tuioe5679)](https://github.com/tuioe5679/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuioe5679&show_icons=true)
 
 
