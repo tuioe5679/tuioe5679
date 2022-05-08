@@ -1,4 +1,5 @@
 ### 개발자를 희망하는 tuioe 입니다 
+github img.jpg
 - 컴퓨터 공학과 2학년 재학중
 - 기술 스택
 - Java + Spring
