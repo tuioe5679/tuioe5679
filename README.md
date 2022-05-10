@@ -6,7 +6,7 @@
 - 웹과 앱을 중점으로 개발하고 있습니다 Back-end 영역을 선호합니다 
 - 프로그래밍을 시작 한 지 3년 차이지만 아직 제대로 해본 것이 별로 없습니다 
 - 그래서 항상 부족한 마음을 가지며 더욱더 열심히 해보려고 노력 중입니다
-### Devlop Skill
+### Develop Skill
 - 많이 사용하는 언어는 Java, Python입니다
 - Front-end Language: HTML5 CSS3 JavaScript (React) 
 - Back-end  Language: Java (Spring) Python (Django)
