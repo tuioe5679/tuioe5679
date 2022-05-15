@@ -11,21 +11,18 @@
 - Front-end Language: HTML5 CSS3 JavaScript (React) 
 - Back-end  Language: Java (Spring) Python (Django)
 
+### Blog & Portfolio
+
+- <a href="https://blog.naver.com/qodlgks123">개발&일상 블로그</a>
+- <a href="https://tuioe5679.github.io/web-porfolio-main/">포트폴리오</a>
+
+
 ### GitHub State
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuioe5679&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuioe5679&layout=compact&theme=onedark)](https://github.com/tuioe5679/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tuioe5679&theme=onedark)](https://github.com/tuioe5679/github-readme-stats)
-
-### Blog & Portfolio
-
-- <a href="https://blog.naver.com/qodlgks123">개발&일상 블로그</a>
-- <a href="https://tuioe5679.github.io/web-porfolio-main/">포트폴리오</a>
-<img src = "gitimage.jpg" width="500"/>
-
-
-
 
 
 
