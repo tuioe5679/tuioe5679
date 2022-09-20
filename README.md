@@ -1,14 +1,13 @@
 ### 프로그래머 teioe입니다
 
 ### 👀 About Me
-- 현재 컴퓨터 공학과 2학년 재학 중입니다
-- 주로 웹 개발을 하며 취미로 게임 개발을 하고 있습니다 
-- 백엔드 개발에 관심이 많습니다 
+- 현재 컴퓨터 공학과 2학년 재학 중입니다 <br>
+- 주로 스프링을 사용하여 백엔드 개발을 하며 취미로 게임 개발을 하고 있습니다 
 
 ### 🎨 Develop Skill
 
 #### Language
-<img src="https://img.shields.io/badge/Java-EC1C24?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/CS-239120?style=flat-square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-2F7293?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/CS-239120?style=flat-square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 #### Back-End 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
