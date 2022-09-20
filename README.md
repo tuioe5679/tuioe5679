@@ -28,7 +28,7 @@
 ### ✨ GitHub State
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuioe5679&layout=compact&theme=onedark)](https://github.com/tuioe5679/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuioe5679&show_icons=true&theme=onedark&card_width=400&line_height=20)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuioe5679&show_icons=true&theme=onedark&card_width=416&line_height=20)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tuioe5679&theme=onedark&column=7&row=1)](https://github.com/tuioe5679/github-readme-stats)
 
 
