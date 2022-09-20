@@ -4,6 +4,7 @@
 - 현재 컴퓨터 공학과 2학년 재학 중입니다 <br>
 - 주로 스프링을 사용하여 백엔드 개발을 하며 취미로 게임 개발을 하고 있습니다 
 ***
+
 ### 🎨 Develop Skill
 
 #### Language
@@ -25,27 +26,8 @@
 <img src="https://img.shields.io/badge/Unity-gray?style=flat-square&logo=Unity&logoColor=white"/>
 
 ***
-### ✨ GitHub State
 
+### ✨ GitHub State
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuioe5679&layout=compact&theme=onedark)](https://github.com/tuioe5679/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuioe5679&show_icons=true&theme=onedark&card_width=416&line_height=20)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tuioe5679&theme=onedark&column=7&row=1)](https://github.com/tuioe5679/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
