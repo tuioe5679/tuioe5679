@@ -5,7 +5,6 @@
 - 주로 Spring을 사용하여 백엔드 개발을 하며 취미로 게임 개발을 하고 있습니다
 
 ### 😎 Project
-<a href="https://tuioe.vercel.app/"> 기술 블로그 
 ***
 
 ### 🎨 Develop Skill
