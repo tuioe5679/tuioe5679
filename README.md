@@ -1,6 +1,6 @@
-### 백엔드 개발자 tuioe입니다
-서버 개발을 주로 하는 프로그래머 tuioe입니다 <br>
-주언어: Java,JavaScript 서브 언어: Python,C# 
+## 백엔드 개발자 tuioe입니다
+#### 서버 개발을 주로 하는 프로그래머 tuioe입니다 <br>
+#### 주언어: Java,JavaScript 서브 언어: Python,C# 
 
 ### 👀 About Me
 - 🎓 현재 소프트웨어학과 3학년 휴학중 입니다 🪖(나라 지키고 있습니다) <br>
