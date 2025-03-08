@@ -8,7 +8,8 @@
 - 🛠️ 새로운 지식과 기술을 배우며 성장하고 있습니다
 
 ### 😎 develop blog
-- <a href="https://white63ser.tistory.com/">tuioe_5679 개발 삽질 <a/>
+- tistory: <a href="https://white63ser.tistory.com/">tuioe_5679 개발 삽질 <a/>
+- Oopy: <a href="https://tuioe.oopy.io/">Tuioe'Develop Log <a/>
 
 ### 🎨 Develop Skill
 
