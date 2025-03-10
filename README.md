@@ -9,7 +9,6 @@
 
 ### 😎 develop blog
 - tistory: <a href="https://white63ser.tistory.com/">tuioe_5679 개발 삽질 <a/>
-- Oopy: <a href="https://tuioe.oopy.io/">Tuioe'Develop Log <a/>
 
 ### 🎨 Develop Skill
 
