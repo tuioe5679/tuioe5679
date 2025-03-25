@@ -29,7 +29,6 @@
 #### Tool
 <img src="https://img.shields.io/badge/IntelliJ IDEA-3955A3?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Unity-gray?style=flat-square&logo=Unity&logoColor=white"/>
 
 ***
 
