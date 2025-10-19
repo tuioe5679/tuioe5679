@@ -21,8 +21,9 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
 ### 🏆 Experience & Activities
-- **[kakao x goorm] 9oormthonUNIV 4기** (2025)
-- **[kakao x goorm] 9oormthonUNIV 충남톤 해커톤 백엔드 파트 장려상 수상** (2025)
+- **[kakao x goorm] 9oormthonUNIV 4기** (2025.03 ~ 2025.10)
+- **[kakao x goorm] 9oormthonUNIV <a href="https://github.com/2025Chungnamthon/2025_CHUNGNAM_TEAM_1_BE"> 충남톤 해커톤 백엔드 파트 장려상 수상** (2025)</a>
+- **[kakao x goorm] 9oormthonUNIV <a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_13_BE"> 시즌톤 해커톤 백엔드 파트 본선 진출** (2025)</a>
 
 ### ✨ GitHub State
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuioe5679&layout=compact&theme=onedark)](https://github.com/tuioe5679/github-readme-stats)
