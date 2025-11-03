@@ -28,3 +28,11 @@
 ### ✨ GitHub State
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuioe5679&layout=compact&theme=onedark)](https://github.com/tuioe5679/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuioe5679&show_icons=true&theme=onedark&card_width=416&line_height=20)
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tuioe5679&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/tuioe5679"
+  width="600"
+  height="300"
+/>
+</a>
