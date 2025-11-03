@@ -32,7 +32,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tuioe5679&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/tuioe5679"
-  width="600"
+  width="885"
   height="300"
 />
 </a>
