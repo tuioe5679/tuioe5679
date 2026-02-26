@@ -20,12 +20,15 @@ Spring 기반 서버 개발을 주로 하며,
 
 ### 🎨 Develop Skill
 
-#### Language
-<img src="https://img.shields.io/badge/Java-2F7293?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+#### Back-End
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,java,mysql,redis" />
+</p>
 
-#### Back-End 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+#### Infra & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,githubactions" />
+</p>
 
 ### 🏆 Experience & Activities
 - **9oormthonUNIV [kakao x goorm] 4기 Backend Developer 미르미 참여** (2025.03 ~ 2025.10)
